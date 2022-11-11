@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TestCocoaSDK"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "TestCocoaSDK iOS 实时语音呼叫SDK"
 
   spec.description  = <<-DESC

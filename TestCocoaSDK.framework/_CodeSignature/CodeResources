@@ -8,9 +8,13 @@
 		<data>
 		9n9dIyel9rIr76UD1R2MaZR9SV0=
 		</data>
+		<key>Headers/TestManager.h</key>
+		<data>
+		I+3huv/e4Snaf1wvBxN2rXGOWUM=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		pT431q+o5XvoM+BubJrOD6z6eII=
+		IAuQHc6AgpZvlIDw+87WxVnNPqM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -28,6 +32,17 @@
 			<key>hash2</key>
 			<data>
 			zylyomYawPsBOf6QL9O/bTG25ThUtQnGMmH7QhMqwJ4=
+			</data>
+		</dict>
+		<key>Headers/TestManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I+3huv/e4Snaf1wvBxN2rXGOWUM=
+			</data>
+			<key>hash2</key>
+			<data>
+			+q9pu7sOo4gTFfaLHNMlwVB665UhLGukpPdd8mVE1dk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
