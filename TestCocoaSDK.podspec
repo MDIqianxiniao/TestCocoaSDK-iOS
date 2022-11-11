@@ -20,10 +20,10 @@ Pod::Spec.new do |spec|
 
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.author           = { 'MDIqianxiniao' => 'madi_happy@163.com' }
-  spec.source           = { :git => 'git@github.com:MDIqianxiniao/TestCocoaSDK-iOS.git', :tag => spec.version.to_s }
+  spec.source           = { :git => 'git@github.com:MDIqianxiniao/TestCocoaSDK-iOS.git', :tag => spec.version}
 
   spec.platform     = :ios, "11.0"
-  #spec.ios.deployment_target = '13.0'
+  #spec.ios.deployment_target = '13.0's
 
   spec.ios.vendored_frameworks  = "TestCocoaSDK.framework"
 
