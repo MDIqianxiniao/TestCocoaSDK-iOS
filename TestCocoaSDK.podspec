@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/MDIqianxiniao/TestCocoaSDK-iOS"
 
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
-  spec.author           = { 'MDIqianxiniao' => 'madi_happy@163.com' }
+  spec.author           = { 'madi_happy@163.com' => 'MDIqianxiniao' }
   spec.source           = { :git => 'git@github.com:MDIqianxiniao/TestCocoaSDK-iOS.git', :tag => spec.version.to_s }
 
   spec.platform     = :ios, "11.0"
