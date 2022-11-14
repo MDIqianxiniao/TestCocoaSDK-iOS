@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "11.0"
   #spec.ios.deployment_target = '13.0'
 
-  spec.ios.vendored_frameworks  = "TestCocoaSDK.framework", "TiPhoneSDK.framework", "WebRTC.framework"
+  spec.ios.vendored_frameworks  = "TestCocoaSDK.framework", "TPhoneSDKCore.xcframework", "WebRTC.framework"
 
   #spec.source_files = "WebRTC.framework/Headers/RTCPeerConnectionFactory.h"
  #spec.source_files = "WebRTC.framework/Headers/RTCMediaConstraints.h"
