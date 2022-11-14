@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TestCocoaSDK"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.4"
   spec.summary      = "TestCocoaSDK iOS 实时语音呼叫SDK"
 
   spec.description  = <<-DESC
@@ -27,7 +27,8 @@ Pod::Spec.new do |spec|
 
   spec.ios.vendored_frameworks  = "TestCocoaSDK.framework", "WebRTC.framework"
 
-spec.source_files = "WebRTC.framework/Headers/RTCPeerConnectionFactory.h"
+  spec.source_files = "WebRTC.framework/Headers/RTCPeerConnectionFactory.h"
+ spec.source_files = "WebRTC.framework/Headers/RTCMediaConstraints.h"
 
   spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 arm64' }
   #spec.pod_target_xcconfig = {'VALID_ARCHS'=>'arm64 x86_64','EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
