@@ -4,22 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/WebRTC.framework/Info.plist</key>
-		<data>
-		vMJkpy2xJUR+jqZPvkY8xa/ELvw=
-		</data>
-		<key>Frameworks/WebRTC.framework/LICENSE.md</key>
-		<data>
-		eGbQ5eY99M3420U7i7dxxb1Bx28=
-		</data>
-		<key>Frameworks/WebRTC.framework/WebRTC</key>
-		<data>
-		55f/tbSJzGQYMeELlSdVsq+98ik=
-		</data>
-		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
-		<data>
-		TADv26tkOPJdbrASqCfooWBxF+A=
-		</data>
 		<key>Headers/TestCocoaSDK.h</key>
 		<data>
 		9n9dIyel9rIr76UD1R2MaZR9SV0=
@@ -30,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hFYBNrGQXzKYrabQnqJ6EqXttzQ=
+		Q0J/mEEblHkXwGjZw71Djrgrrsw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,50 +23,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/WebRTC.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vMJkpy2xJUR+jqZPvkY8xa/ELvw=
-			</data>
-			<key>hash2</key>
-			<data>
-			sCaEEybhd+EmKOKIk8BLMPw1w0oj5rN2NxR7Rs7Nsn4=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/LICENSE.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eGbQ5eY99M3420U7i7dxxb1Bx28=
-			</data>
-			<key>hash2</key>
-			<data>
-			PTlgSOZT0hbbCSAvFpzSQyzrlWhmmeEx1SBKNKQJoK8=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/WebRTC</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			55f/tbSJzGQYMeELlSdVsq+98ik=
-			</data>
-			<key>hash2</key>
-			<data>
-			WhGUX3b/ZrNZ8aLxoFPFs/GZYVsBIhYX1yPd9BQ4J/4=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TADv26tkOPJdbrASqCfooWBxF+A=
-			</data>
-			<key>hash2</key>
-			<data>
-			31M4HPzy+FIaH/i2oTatA86X6NPEv/97yMkBVX9hFGY=
-			</data>
-		</dict>
 		<key>Headers/TestCocoaSDK.h</key>
 		<dict>
 			<key>hash</key>

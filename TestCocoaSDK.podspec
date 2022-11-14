@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TestCocoaSDK"
-  spec.version      = "1.0.5"
+  spec.version      = "1.0.6"
   spec.summary      = "TestCocoaSDK iOS 实时语音呼叫SDK"
 
   spec.description  = <<-DESC
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "11.0"
   #spec.ios.deployment_target = '13.0'
 
-  spec.ios.vendored_frameworks  = "TestCocoaSDK.framework", "WebRTC.framework"
+  spec.ios.vendored_frameworks  = "TestCocoaSDK.framework", "TiPhoneSDK.framework", "WebRTC.framework"
 
   #spec.source_files = "WebRTC.framework/Headers/RTCPeerConnectionFactory.h"
  #spec.source_files = "WebRTC.framework/Headers/RTCMediaConstraints.h"
