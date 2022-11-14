@@ -23,7 +23,7 @@ Pod::Spec.new do |spec|
   spec.source           = { :git => 'git@github.com:MDIqianxiniao/TestCocoaSDK-iOS.git', :tag => spec.version}
 
   spec.platform     = :ios, "11.0"
-  #spec.ios.deployment_target = '13.0's
+  #spec.ios.deployment_target = '13.0'
 
   spec.ios.vendored_frameworks  = "TestCocoaSDK.framework", "WebRTC.framework"
 
