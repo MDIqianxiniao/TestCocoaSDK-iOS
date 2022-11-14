@@ -11,6 +11,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TestManager : NSObject
 
++ (instancetype)sharedTestManger;
+
 - (void)testLogString;
 
 @end
